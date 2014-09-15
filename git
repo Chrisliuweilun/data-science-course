@@ -1,0 +1,17 @@
+mkdir
+cd
+cp 
+rm
+re -r
+git init
+git remote add origin
+git clone 
+git add
+git add -u
+git add -A
+git commit -m "message"
+git push
+git check -b branchname
+git branch
+git branch master
+#
