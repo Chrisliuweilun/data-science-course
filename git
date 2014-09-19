@@ -15,3 +15,5 @@ git check -b branchname
 git branch
 git branch master
 git pull #update the local repo
+gti push -u origin master
+git status
